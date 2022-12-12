@@ -1,6 +1,6 @@
  #                                                                :revolving_hearts:BELLMAN - FORD :revolving_hearts:
  ##                                             💘 Đồ án lý thuyết môn : Cấu trúc dữ liệu và giải thuật
-                                                                   Đề 04 : Bellman - Ford's Algorithsm  
+                                          Đề 04 : Bellman - Ford's Algorithm  
 
 **_:face_in_clouds:   GIỚI THIỆU :_**
 Tìm hiểu   và viết báo cáo về thuật toán Bellman - Ford
